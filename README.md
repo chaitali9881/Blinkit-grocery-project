@@ -174,7 +174,7 @@ Outlet Type Performance: Supermarket Type1 dominates in both sales and number of
 
 ---
  
-# Questions
+Questions
 
 Power BI Questions:
 KPI’s Requirements
@@ -251,5 +251,5 @@ Chart Type: Funnel Map.
 
 
 
-### 📷 Screenshots
+📷 Screenshots
 <img src = "https://github.com/chaitali9881/Blinkit-grocery-project/blob/main/Blinkit_project_screenshot.png">
